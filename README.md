@@ -26,7 +26,5 @@ This analysis uses historical stock price data.
 - **Features:** Typically includes open, high, low, close prices, adjusted close prices, and trading volume for each date.  
 - **Time Range:** [e.g., Jan 2010 to Dec 2024].  
 
-> **Note:** If the dataset is too large to upload, a link to download it is provided instead.
-
 ---
 
