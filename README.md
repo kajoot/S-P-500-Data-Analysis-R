@@ -8,7 +8,7 @@ A data analysis project exploring historical stock price trends, patterns, and v
 
 This repository contains an R notebook that performs exploratory data analysis (EDA) and visualization of historical stock price data.  
 The goal of the project is to explore trends, volatility, and key metrics such as closing prices and moving averages over time.  
-The analysis demonstrates basic data preprocessing, visualization, and interpretation using R. :contentReference[oaicite:0]{index=0}
+The analysis demonstrates basic data preprocessing, visualization, and interpretation using R.
 
 ---
 
